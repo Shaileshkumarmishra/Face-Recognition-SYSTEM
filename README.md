@@ -16,7 +16,7 @@ This project is a **Face Recognition Attendance System** that automates attendan
 ### 🔹 Attendance Success Message
 ![Attendance Marked](assets/attendance_success.png)
 
-> 📂 Make sure these images are stored inside an `assets/` folder in your repository.
+
 
 ---
 
@@ -73,3 +73,11 @@ This project is open-source under the **MIT License**. You are free to use, modi
 ---
 
 ## 📂 Folder Structure (Example)
+/face-recognition-system
+│
+├── /android-app # Android Studio project
+├── /python-backend # Python scripts (face recognition, DB connector)
+├── /model # Trained model and datasets
+├── /assets # Images/screenshots for documentation
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
