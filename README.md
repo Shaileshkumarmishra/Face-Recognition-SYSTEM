@@ -5,6 +5,18 @@ This project is a **Face Recognition Attendance System** that automates attendan
 
 ---
 
+## 🔗 Industry Reference
+
+**FA6 Class by Face-Six** – A commercial, classroom-focused face-recognition attendance solution.  
+- **Website:** [attendance-face-recognition-sk-6c9f47.webflow.io](https://attendance-face-recognition-sk-6c9f47.webflow.io/)  
+- **Key Highlights:**  
+  - Up to **99% accuracy** and sub-1-second identification  
+  - Real-time notifications & detailed attendance reports  
+  - Deployable at entrances or inside classrooms  
+  - Supports students, teachers, parents, and flagged “suspects”  
+- **Use Case Fit:** Demonstrates how an end-to-end product addresses deployment ease, speed, and reporting—valuable benchmarks for our own system.
+  ----
+
 ## 📸 Project Screenshots
 
 ### 🔹 Android App UI
